@@ -1,0 +1,2 @@
+[console_scripts]
+github-vector-cli = github_vector_cli.cli:main

@@ -1,0 +1,14 @@
+setup.py
+github_vector_cli/__init__.py
+github_vector_cli/auth.py
+github_vector_cli/chroma.py
+github_vector_cli/cli.py
+github_vector_cli/github.py
+github_vector_cli.egg-info/PKG-INFO
+github_vector_cli.egg-info/SOURCES.txt
+github_vector_cli.egg-info/dependency_links.txt
+github_vector_cli.egg-info/entry_points.txt
+github_vector_cli.egg-info/requires.txt
+github_vector_cli.egg-info/top_level.txt
+github_vector_cli/plugins/__init__.py
+github_vector_cli/plugins/search.py
