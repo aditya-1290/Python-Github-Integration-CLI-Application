@@ -1,0 +1,7 @@
+click
+PyGithub
+chromadb
+rich
+python-dotenv
+typer
+sentence-transformers
